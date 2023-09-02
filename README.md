@@ -1,17 +1,18 @@
 # 7DaysOfCode-html-css
+
 Este projeto faz parte do desafio "7 Dias de Código", no qual criei uma página completa de "Vagas" para a empresa fictícia OptimusTech. Confira o Figma do desafio [aqui.](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?type=design&node-id=0%3A9878&mode=design&t=rxklZStDRftAtTrS-1)
 
-Neste projeto, utilizei várias linguagens de programação, incluindo:
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **OptimusTech**
+| :label: Tecnologias | html, css, 
+| :rocket: URL         | https://7daysofcode-html-css-alpha.vercel.app/
+| :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
-- HTML para a estrutura da página.
-- CSS para o estilo e o design.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://i.imgur.com/Kcgdujr.jpg#vitrinedev)
 
- <div style="display: inline-block">
-    <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-# Detalhes do desenvolvimento:
+## Detalhes do projeto
 
 DIA 1:
 -Desenvolvimento da barra de navegação, incluindo logotipo, menu com páginas e botões no canto superior direito.
